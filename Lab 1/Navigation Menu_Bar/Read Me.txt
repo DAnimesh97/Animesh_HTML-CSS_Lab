@@ -1,1 +1,0 @@
-Please ignore "main-menu.html" and "sub-menu.html" files as they are dummy files which I keep for revision purpose.
